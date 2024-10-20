@@ -1,0 +1,33 @@
+list_of_syrup = {
+    'Айриш крим ': 'irish_cream',
+    'Клиновый ': 'wedge',
+    'Голубой кюрасао ': 'blue_curacao',
+    'Облепиха ': 'sea_buckthorn',
+    'Бабл гам ': 'bubble_gum',
+    'Апельсин ': 'orange',
+    'Шоколад ': 'chocolate',
+    'Гранат ': 'pomegranate',
+    'Лаванда ': 'lavender',
+    'Персик ': 'peach',
+    'Киви ': 'kiwi',
+    'Имбирь ': 'ginger',
+    'Миндаль ': 'almond',
+    'Кокос ': 'coconut',
+    'Ваниль ': 'vanilla',
+    'Карамель ': 'caramel',
+    'Солёная карамель ': 'salted_caramel',
+    'Манго ': 'mango',
+    'Малина ': 'raspberry',
+    'Клубника ': 'strawberry',
+    'Огурец ': 'cucumber',
+    'Зелёный банан ': 'green_banana',
+    'Фисташки ': 'pistachios',
+    'Имбирный пряник ': 'gingerbread',
+    'Лесной орех ': 'hazelnut',
+    'Мята ': 'mint',
+    'Банан ': 'banana',
+    'Вишня ': 'cherry',
+    'Острый ': 'sharp'
+}
+
+
